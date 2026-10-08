@@ -1,0 +1,12 @@
+{
+  "name": "agent-reach",
+  "version": "1.0.0",
+  "description": "Read and search the internet (web pages, YouTube, GitHub, RSS, Exa search, Twitter/X, Reddit, Bilibili) through the Agent Reach CLI.",
+  "author": {
+    "name": "phiraphat128"
+  },
+  "homepage": "https://github.com/phiraphat128/Agent-Reach",
+  "repository": "https://github.com/phiraphat128/Agent-Reach",
+  "license": "MIT",
+  "keywords": ["web", "search", "youtube", "twitter", "reddit", "github", "rss", "scraping"]
+}
